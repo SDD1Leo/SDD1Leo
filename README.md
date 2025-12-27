@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swaroop @SDD1Leo
-- 👀 I’m a Web Developer
-- 🌱 I’m currently learning advanced TypeScript, WebSockets, and optimizations for large-scale applications.
-- 💞️ I’m looking to collaborate on open-source projects, especially in the MERN stack and backend systems.
+- 👀 I’m a Backend and Devops guy.
+- 🌱 I’m currently learning Message passing systems, Advanced Linux stuffs, Devops as a Culture.
+- 💞️ I’m looking to collaborate on open-source projects, especially in backend systems.
 - 📫 How to reach me: Email me at swaroopdash05@gmail.com or connect with me on GitHub and LinkedIn.
 
 <!---
